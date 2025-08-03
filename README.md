@@ -1,19 +1,5 @@
 # PLP Academy Portfolio Challenge - Personal Portfolio Website
 
-## 📁 Project Structure
-\`\`\`
-portfolio-challenge/
-├── index.html          # Main HTML file
-├── styles.css          # All CSS styles
-├── cv             # Curriculum Vitae/Resume
-├── images/            # All project and profile images
-│   ├── profile.jpeg
-│   ├── dashboard_overview.jpg
-│   ├── airbnb_distribution.png
-│   └── python_30.jpeg
-└── README.md          # Project documentation
-\`\`\`
-
 ## 🎯 Project Overview
 
 This is my submission for the **PLP Academy Portfolio Challenge (July 2025 Cohort Hackathon 1)**. A fully responsive personal portfolio website built with vanilla HTML, CSS to showcase my skills, background, and achievements.
