@@ -16,12 +16,14 @@ A fully responsive personal portfolio website built with vanilla HTML, CSS, and 
 - Pure CSS for interactions, validation, and navigation
 
 ## 📁 Project Structure
+
 portfolio-challenge/
-├── index.html
-├── styles.css
-├── cv.pdf # Curriculum Vitae/Resume
-├── images/ # All project and profile images
-└── README.md
+├── index.html           # Main portfolio page
+├── styles.css           # Styling
+├── cv.pdf              # Curriculum Vitae / Resume
+├── images/             # Project and profile images
+└── README.md           # Project documentation
+
 
 
 ## 🚀 Getting Started
